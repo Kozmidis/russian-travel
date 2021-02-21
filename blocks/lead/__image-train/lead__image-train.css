@@ -1,0 +1,5 @@
+.lead__image-train {
+    width: 100%;
+    grid-column: 3/4;
+    grid-row: 1/-1;
+}

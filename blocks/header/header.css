@@ -1,0 +1,6 @@
+.header {
+    display: grid;
+    grid-template-columns: repeat(2, min-content);
+    justify-content: space-between;
+    margin: 28px auto 0px;
+}
