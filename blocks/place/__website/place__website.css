@@ -1,0 +1,9 @@
+.place__website {
+    display: grid;
+    gap: 12px;
+    grid-column: 2/3;
+    grid-row: 1/2;
+    gap: 12px;
+    justify-self: start;
+    align-self: end;
+}

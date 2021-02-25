@@ -3,4 +3,7 @@
     line-height: 1.4;
     font-weight: 400;
     letter-spacing: 0.15em;
+    margin: 0px;
+    margin-top: 8px;
+    text-transform: uppercase;
 }

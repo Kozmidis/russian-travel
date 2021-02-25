@@ -1,5 +1,5 @@
 .content {
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
-    grid-template-rows: repeat(10, 1fr);
+    grid-template-columns: minmax(min-content, 100%);
+    gap: 92px;
 }

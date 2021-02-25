@@ -1,0 +1,15 @@
+.into__text {
+    justify-self: start;
+    align-self: start;
+    margin-bottom: 33px;
+    line-height: 26.08px;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    .into__text {
+        max-width: 100%;
+    }
+}
