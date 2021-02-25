@@ -3,15 +3,3 @@
         grid-template-columns: 50%;
         gap: 48px 40px;
     }
-    
-    @media screen and (max-width: 1024px) {
-        .cover {
-            gap: 48px 32px;
-        }
-    }
-    
-    @media screen and (max-width: 768px) {
-        .cover {
-            gap: 48px 28px;
-        }
-    }

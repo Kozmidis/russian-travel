@@ -4,9 +4,3 @@
     grid-template-columns: repeat(1, minmax(min-content, max-content));
     margin: 0 auto;
 }
-
-@media screen and (max-width: 768px) {
-    .into {
-        max-width: 100%;
-    }
-}
