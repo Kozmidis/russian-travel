@@ -19,9 +19,14 @@
     }
 }
 
+@media all and (max-width: 767px) {
+    .root {
+        max-width: calc(425px - 16px*2);
+    }
+}
+
 @media all and (max-width: 424px) {
     .root {
         max-width: calc(320px - 16px*2);
-        background-color: #2f2f30;
     }
 }

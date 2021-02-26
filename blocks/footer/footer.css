@@ -4,7 +4,7 @@
     margin: 92px 0px 24px;
 }
 
-@media all and (max-width: 424px) {
+@media all and (max-width: 767px) {
     .footer {
         flex-direction: column;
     }

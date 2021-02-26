@@ -19,12 +19,6 @@
     }
 }
 
-@media all and (max-width: 424px) {
-    .into {
-        width: 100%;
-    }
-}
-
 @media all and (max-width: 767px) {
     .into {
         width: 100%;

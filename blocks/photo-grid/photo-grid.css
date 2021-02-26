@@ -19,7 +19,7 @@
     }
 }
 
-@media all and (max-width: 424px) {
+@media all and (max-width: 767px) {
     .photo-grid {
         grid-template-columns: repeat(1, minmax(min-content, max-content));
         gap: 12px;

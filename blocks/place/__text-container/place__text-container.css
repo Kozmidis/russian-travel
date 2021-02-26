@@ -6,7 +6,7 @@
     grid-template-rows: min-content;
 }
 
-@media all and (max-width: 424px) {
+@media all and (max-width: 767px) {
     .place__text-container {
         gap: 25px;
         grid-column: 1/-1;

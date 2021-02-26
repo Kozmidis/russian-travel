@@ -17,7 +17,7 @@
     }
 }
 
-@media all and (max-width: 424px) {
+@media all and (max-width: 767px) {
     .places {
         gap: 50px;
     }
