@@ -3,3 +3,9 @@
     justify-content: space-between;
     margin: 92px 0px 24px;
 }
+
+@media all and (max-width: 424px) {
+    .footer {
+        flex-direction: column;
+    }
+}

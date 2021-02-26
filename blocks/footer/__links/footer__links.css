@@ -4,3 +4,10 @@
     padding: 0px;
     margin: 0px;
 }
+
+@media all and (max-width: 424px) {
+    .footer__links {
+        display: grid;
+        gap: 32px;
+    }
+}

@@ -7,3 +7,10 @@
     justify-self: start;
     align-self: end;
 }
+
+@media all and (max-width: 424px) {
+    .place__website {
+        grid-column: 1/-1;
+        grid-row: 2/3;
+    }
+}

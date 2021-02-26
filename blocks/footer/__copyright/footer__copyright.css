@@ -4,3 +4,9 @@
     line-height: 16px;
     margin: 0px;
 }
+
+@media all and (max-width: 424px) {
+    .footer__copyright {
+        margin-top: 48px;
+    }
+}
