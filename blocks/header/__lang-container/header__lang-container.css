@@ -4,4 +4,5 @@
     align-items: center;
     grid-auto-flow: column;
     gap: 18px;
+    list-style-type: none;
 }

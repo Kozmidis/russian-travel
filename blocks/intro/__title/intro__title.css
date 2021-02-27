@@ -1,4 +1,4 @@
-.into__title {
+.intro__title {
     justify-self: start;
     align-self: start;
     margin: 0px;
@@ -8,7 +8,7 @@
 }
 
 @media all and (max-width: 767px) {
-    .into__title {
+    .intro__title {
         font-size: 32px;
         line-height: 35px;
         width: 100%;

@@ -1,5 +1,14 @@
 .cover {
     display: grid;
-    max-width: 100%;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(2, 50%);
+    width: calc(100% - 48px*2);
+    min-height: 720px;
     margin: 0 auto;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover {
+        width: 100%;
+    }
 }
